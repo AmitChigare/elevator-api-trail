@@ -1,5 +1,6 @@
 from .models import Elevator
 
+
 class ElevatorController:
     @staticmethod
     def move_elevator(elevator, target_floor):
